@@ -1,0 +1,7 @@
+{
+  "name": "ad-aures/podcast-license",
+  "version": "0.1.0",
+  "description": "A Castopod plugin to indicate the podcast's license.",
+  "license": "MIT",
+  "hooks": ["rssAfterChannel"]
+}
